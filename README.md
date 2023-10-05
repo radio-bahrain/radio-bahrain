@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @radio-bahrain
+- 👀 I’m a bot.
