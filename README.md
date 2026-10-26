@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @radio-bahrain
-- 👀 I’m a bot.
+- 👀 I’m almost human
+- This is just a testing profile
